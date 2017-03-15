@@ -26,5 +26,11 @@ Des exemples plus avancés :
 https://docs.jboss.org/jbossas/docs/Server_Configuration_Guide/4/html/Messaging_on_JBoss-JMS_Examples.html
 
 ### Soap
+Un tutoriel en SOAP
 http://docs.jboss.org/tools/latest/en/ws_soap_reference/html/topdown.html
 
+
+## JMS et Java RX
+Quelques exemples plus sophistiqués autour de la notion de message :
+https://github.com/ualerts-org/jms-rx-demo
+Merci @ceharris pour son tutoriel !
