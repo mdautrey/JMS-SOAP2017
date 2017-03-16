@@ -5,32 +5,33 @@ Quelques éléments d'une courte formation à la programmation Java distribuée
 ## Exemples en Spring
 ### JMS
 Réaliser le tutoriel suivant :
-https://spring.io/guides/gs/messaging-jms/
+- https://spring.io/guides/gs/messaging-jms/
 
 
 ### Web socket
 Réaliser le tutoriel suivant : 
-https://spring.io/guides/gs/messaging-stomp-websocket/
+- https://spring.io/guides/gs/messaging-stomp-websocket/
 
 ### SOAP
 Réaliser les tutoriels suivants :
-https://spring.io/guides/gs/producing-web-service/
-https://spring.io/guides/gs/consuming-web-service/
+- https://spring.io/guides/gs/producing-web-service/
+- https://spring.io/guides/gs/consuming-web-service/
 
 ## Exemples avec JBoss
 ### JMS
 Basic :
-http://www.jboss.org/quickstarts/eap/helloworld-jms/
+- http://www.jboss.org/quickstarts/eap/helloworld-jms/
 
 Des exemples plus avancés :
-https://docs.jboss.org/jbossas/docs/Server_Configuration_Guide/4/html/Messaging_on_JBoss-JMS_Examples.html
+- https://docs.jboss.org/jbossas/docs/Server_Configuration_Guide/4/html/Messaging_on_JBoss-JMS_Examples.html
 
 ### Soap
 Un tutoriel en SOAP
-http://docs.jboss.org/tools/latest/en/ws_soap_reference/html/topdown.html
+- http://docs.jboss.org/tools/latest/en/ws_soap_reference/html/topdown.html
 
 
 ## JMS et Java RX
 Quelques exemples plus sophistiqués autour de la notion de message :
-https://github.com/ualerts-org/jms-rx-demo
+- https://github.com/ualerts-org/jms-rx-demo
+
 Merci @ceharris pour son tutoriel !
