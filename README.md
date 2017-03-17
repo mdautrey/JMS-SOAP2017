@@ -16,21 +16,6 @@ Réaliser les tutoriels suivants :
 Des exemples de couche d'adaptation Objet WS / objet Domaine :
 - http://www.javaworld.com/article/2074949/core-java/dozer--mapping-jaxb-objects-to-business-domain-objects.html
 
-## Exemples avec JBoss
-### JMS
-Basic :
-- http://www.jboss.org/quickstarts/eap/helloworld-jms/
+Un livre sur Spring avec des exemples de code source :
+- https://www.manning.com/books/spring-in-action-fourth-edition
 
-Des exemples plus avancés :
-- https://docs.jboss.org/jbossas/docs/Server_Configuration_Guide/4/html/Messaging_on_JBoss-JMS_Examples.html
-
-### Soap
-Un tutoriel en SOAP
-- http://docs.jboss.org/tools/latest/en/ws_soap_reference/html/topdown.html
-
-
-## JMS et Java RX
-Quelques exemples plus sophistiqués autour de la notion de message :
-- https://github.com/ualerts-org/jms-rx-demo
-
-Merci @ceharris pour son tutoriel !
