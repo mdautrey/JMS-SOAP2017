@@ -8,14 +8,13 @@ Réaliser le tutoriel suivant :
 - https://spring.io/guides/gs/messaging-jms/
 
 
-### Web socket
-Réaliser le tutoriel suivant : 
-- https://spring.io/guides/gs/messaging-stomp-websocket/
-
 ### SOAP
 Réaliser les tutoriels suivants :
 - https://spring.io/guides/gs/producing-web-service/
 - https://spring.io/guides/gs/consuming-web-service/
+
+Des exemples de couche d'adaptation Objet WS / objet Domaine :
+- http://www.javaworld.com/article/2074949/core-java/dozer--mapping-jaxb-objects-to-business-domain-objects.html
 
 ## Exemples avec JBoss
 ### JMS
